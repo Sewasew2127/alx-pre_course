@@ -1,2 +1,2 @@
-git fetch origin
-git merge origin master
+git commit -m "How to be up to date in git"
+
